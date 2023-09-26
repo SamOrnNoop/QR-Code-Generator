@@ -1,0 +1,29 @@
+PODS:
+  - DynamsoftBarcodeReader (9.6.21)
+  - Flutter (1.0.0)
+  - flutter_barcode_sdk (2.2.0):
+    - DynamsoftBarcodeReader (= 9.6.21)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_barcode_sdk (from `.symlinks/plugins/flutter_barcode_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - DynamsoftBarcodeReader
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_barcode_sdk:
+    :path: ".symlinks/plugins/flutter_barcode_sdk/ios"
+
+SPEC CHECKSUMS:
+  DynamsoftBarcodeReader: 7544bb56f3ea940003688355267e6e32ca999030
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_barcode_sdk: 5ab04c18c3230e7ddf09c02267c96e58a25eb8b8
+
+PODFILE CHECKSUM: 69174d4d1738f88cadaf9b24cb0fb7d4b9bf1982
+
+COCOAPODS: 1.12.0
